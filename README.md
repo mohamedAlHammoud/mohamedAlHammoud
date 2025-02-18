@@ -1,5 +1,11 @@
 # 💫 About Me:
-As a developer at a fintech company, I am dedicated to providing users with a better financial experience by leveraging the latest technology. One of my current projects involves streamlining the mortgage application process and allowing users to complete the process entirely online, without the need to visit a physical bank location. By eliminating the need for in-person interactions and reducing the amount of paperwork required, we are working towards the goal of making the mortgage process faster and more convenient for our users.
+
+**Software Engineer | Web Development Enthusiast | Fintech & Crypto Trading**  
+Hey there! 👋 I’m a passionate software engineer specializing in web development, with a strong background in building scalable and user-friendly applications. I’ve previously worked in the fintech space for several years and am currently diving into the exciting world of crypto trading platforms, where I’m helping shape the future of digital finance.  
+
+When I’m not coding, you’ll find me exploring new destinations, savoring diverse cuisines, or staying active through sports. 
+
+Feel free to explore my projects here, and don’t hesitate to reach out if you’d like to collaborate or chat about all things tech, travel, or food! 🌍🍜💻  
 
 
 ## 🌐 Socials:
