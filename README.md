@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 **Software Engineer | Web Development Enthusiast | Fintech & Crypto Trading**  
+
 Hey there! 👋 I’m a passionate software engineer specializing in web development, with a strong background in building scalable and user-friendly applications. I’ve previously worked in the fintech space for several years and am currently diving into the exciting world of crypto trading platforms, where I’m helping shape the future of digital finance.  
 
 When I’m not coding, you’ll find me exploring new destinations, savoring diverse cuisines, or staying active through sports. 
